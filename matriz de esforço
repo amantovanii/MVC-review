@@ -3,10 +3,11 @@ Revisão de string de busca - médio DONE
 Revisão figuras - baixa IN PROGRESS
 Revisão palavras em itálico - baixa DONE
 Revisão espaçamento - baixo DONE
-Revisão Id's do texto - alto IN PROGRESS
-Revisão trechos fora do sentido - médio IN PROGRESS
+Revisão Id's do texto - alto DONE
+Revisão trechos fora do sentido - médio DONE
 
-- Adicionar um trecho no texto que descreve quantos trabalhos foram desconsiderados a partir de cada critério de exclusão -> 
+- Adicionar um trecho no texto que descreve quantos trabalhos foram desconsiderados a partir de cada critério de exclusão -> Planilha de controle da RBS, não armazenei os arquivos exlcuidos da pesquisa. https://docs.google.com/spreadsheets/d/1ccLrWB0yEHFtfRQKuRK0QmdRKeHHxosa/edit?usp=sharing&ouid=115028042832359109398&rtpof=true&sd=true
+Mas inclui todas as citações de todos os 12 autores citados no trabalho conforme seus artigos.
 
 - Deixar bem claro os passos que foram executados e quais foram suas implicações na seleção ou exclusão dos trabalhos, pois só assim será possível garantir a
 reprodutibilidade por outros pesquisadores. - >A string de busca completa apresentada no 
@@ -23,15 +24,15 @@ Xplore, Biblioteca da Universidade de Oslo, Moodle USP, SBU Unicamp (5) não obt
 - Corrigir a legenda de imagens que aparecem com o termo Figura em inglês. Done
 
 - A partir do momento que os trabalhos selecionados forem identificados com IDs, passar a utilizar os identificadores torna a leitura do texto mais simplificada 
-e não fica a sensação de que nem todos os trabalhos foram discutidos.
+e não fica a sensação de que nem todos os trabalhos foram discutidos. -> inclui todas as citações de todos os 12 autores citados no trabalho conforme seus artigos.
 
 - Colocar em itálicos as palavras que aparecem em inglês no decorrer do texto. Done
 
 - Verificar a acentuação correta das palavras ao longo do texto, por exemplo, papéis. Done
 
-- A figura 4 parece não ser de autoria dos escritores e não consta a citação adequada dela. Refiz a imagem 4, mas não sei ao certo a citação dela. 
-Reformulei as figuras para melhor exibição em tela e enfase no texto. Deveria colocar em colunaso texto?
+- A figura 4 parece não ser de autoria dos escritores e não consta a citação adequada dela. -> Refiz a imagem 4, mas não sei ao certo a citação dela. 
+Reformulei as figuras para melhor exibição em tela e enfase no texto. Deveria colocar em colunas o texto?
 Não sei se seria o melhor formato por conta das citações e imagens.
 
 
-- Existem algumas frases sem sentido (faltando artigos) ao longo do texto, revisar por completo. 
+- Existem algumas frases sem sentido (faltando artigos) ao longo do texto, revisar por completo. -> Revisado.
